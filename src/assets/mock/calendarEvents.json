@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "title": "COVID-19 Awareness Event",
+            "date": "2022-05-03",
+            "Description": "The respondents have adequate awareness for COVID‐19 outbreak and its preventive measures."
+        },
+        {
+            "title": "Pet adopting Event",
+            "date": "2022-05-04",
+            "Description": "Event details go here."
+        },
+        {
+            "title": "Team-building Event",
+            "date": "2022-05-05",
+            "Description": "Event details go here."
+        },
+        {
+            "title": "Charity Event",
+            "date": "2022-05-05",
+            "Description": "Event details go here."
+        },
+        {
+            "title": "Resume Building Help",
+            "date": "2022-05-08",
+            "Description": "Event details go here."
+        },
+        {
+            "title": "Celebrating Veterans",
+            "date": "2022-05-05",
+            "Description": "Event details go here."
+        },
+        {
+            "title": "National Holiday",
+            "date": "2022-05-15",
+            "Description": "Event details go here."
+        },
+        {
+            "title": "Career Fair",
+            "date": "2022-01-26",
+            "Description": "Event details go here."
+        }
+    ]
+}

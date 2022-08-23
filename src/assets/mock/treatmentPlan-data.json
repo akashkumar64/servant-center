@@ -1,0 +1,180 @@
+{
+    "FirstName": "Robert",
+    "LastName": "Smith",
+    "RecordNo": "233",
+    "DOB": "07/08/1955",
+    "IntakeDate": "10/23/2021",
+    "hmisId": "123456",
+    "Diagnosis": "This is the diagnosis",
+    "Support": "Supports text",
+    "Strength": "Strengths text",
+    "treatmentIssues": [
+      {
+        "physicalHealth": [
+          {
+            "Goals": "Goal1",
+            "Plans": "Plan1",
+            "Strategies": "Strategies1",
+            "TargetDate": "09/09/2021"
+          },
+          {
+            "Goals": "Goal2",
+            "Plans": "Plan2",
+            "Strategies": "Strategies2",
+            "TargetDate": "8/09/2021"
+          },
+          {
+            "Goals": "Goal3",
+            "Plans": "Plan3",
+            "Strategies": "Strategies3",
+            "TargetDate": "7/09/2021"
+          }
+        ],
+  
+        "mentalHealth": [
+          {
+            "Goals": "Goal1",
+            "Plans": "Plan1",
+            "Strategies": "Strategies1",
+            "TargetDate": "09/09/2021"
+          },
+          {
+            "Goals": "Goal2",
+            "Plans": "Plan2",
+            "Strategies": "Strategies2",
+            "TargetDate": "8/09/2021"
+          },
+          {
+            "Goals": "Goal3",
+            "Plans": "Plan3",
+            "Strategies": "Strategies3",
+            "TargetDate": "7/09/2021"
+          }
+        ],
+        "substanceUse": [
+          {
+            "Goals": "Goal1",
+            "Plans": "Plan1",
+            "Strategies": "Strategies1",
+            "TargetDate": "09/09/2021"
+          },
+          {
+            "Goals": "Goal2",
+            "Plans": "Plan2",
+            "Strategies": "Strategies2",
+            "TargetDate": "8/09/2021"
+          },
+          {
+            "Goals": "Goal3",
+            "Plans": "Plan3",
+            "Strategies": "Strategies3",
+            "TargetDate": "7/09/2021"
+          }
+        ],
+  
+        "housing": [
+          {
+            "Goals": "Goal1",
+            "Plans": "Plan1",
+            "Strategies": "Strategies1",
+            "TargetDate": "09/09/2021"
+          },
+          {
+            "Goals": "Goal2",
+            "Plans": "Plan2",
+            "Strategies": "Strategies2",
+            "TargetDate": "8/09/2021"
+          },
+          {
+            "Goals": "Goal3",
+            "Plans": "Plan3",
+            "Strategies": "Strategies3",
+            "TargetDate": "7/09/2021"
+          }
+        ],
+        "incomeLegal": [
+          {
+            "Goals": "Goal1",
+            "Plans": "Plan1",
+            "Strategies": "Strategies1",
+            "TargetDate": "09/09/2021"
+          },
+          {
+            "Goals": "Goal2",
+            "Plans": "Plan2",
+            "Strategies": "Strategies2",
+            "TargetDate": "8/09/2021"
+          },
+          {
+            "Goals": "Goal3",
+            "Plans": "Plan3",
+            "Strategies": "Strategies3",
+            "TargetDate": "7/09/2021"
+          }
+        ],
+        "education": [
+          {
+            "Goals": "Goal1",
+            "Plans": "Plan1",
+            "Strategies": "Strategies1",
+            "TargetDate": "09/09/2021"
+          },
+          {
+            "Goals": "Goal2",
+            "Plans": "Plan2",
+            "Strategies": "Strategies2",
+            "TargetDate": "8/09/2021"
+          },
+          {
+            "Goals": "Goal3",
+            "Plans": "Plan3",
+            "Strategies": "Strategies3",
+            "TargetDate": "7/09/2021"
+          }
+        ],
+        "relationships": [
+          {
+            "Goals": "Goal1",
+            "Plans": "Plan1",
+            "Strategies": "Strategies1",
+            "TargetDate": "09/09/2021"
+          },
+          {
+            "Goals": "Goal2",
+            "Plans": "Plan2",
+            "Strategies": "Strategies2",
+            "TargetDate": "8/09/2021"
+          },
+          {
+            "Goals": "Goal3",
+            "Plans": "Plan3",
+            "Strategies": "Strategies3",
+            "TargetDate": "7/09/2021"
+          }
+        ],
+        "benefits": [
+          {
+            "Goals": "Goal1",
+            "Plans": "Plan1",
+            "Strategies": "Strategies1",
+            "TargetDate": "09/09/2021"
+          },
+          {
+            "Goals": "Goal2",
+            "Plans": "Plan2",
+            "Strategies": "Strategies2",
+            "TargetDate": "8/09/2021"
+          },
+          {
+            "Goals": "Goal3",
+            "Plans": "Plan3",
+            "Strategies": "Strategies3",
+            "TargetDate": "7/09/2021"
+          }
+        ]
+      }
+    ],
+  
+    "notes": "Add any additional notes here"
+  }
+  
